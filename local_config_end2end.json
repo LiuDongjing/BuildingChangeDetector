@@ -1,0 +1,17 @@
+{
+    "init_lr": 1e-5,
+    "epochs": 1,
+    "batch_size":16,
+    "init_epoch":-1,
+    "target_size":128,
+    "input_path": "../../input/",
+    "output_path": "../../output/fnet",
+    "data_path": "mark/p1p2_e2e_rgbn_1103",
+    "origin_15": "origin/2015p3-denoise-rgbn.tif",
+    "origin_17": "origin/2017p3-denoise-rgbn.tif",
+    "use_chans": 255,
+    "run_name": "test",
+    "train_val_test_config":"p1p2_e2e_rgbn_1103_train_val_test.json",
+    "augmentation":"",
+    "model_name": "unet"
+}

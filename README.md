@@ -260,6 +260,6 @@ ind = lab_arr > 0
 [post_process.py]: https://github.com/LiuDongjing/BuildingChangeDetector/blob/master/post_process.py
 [local_config_end2end.json]: https://github.com/LiuDongjing/BuildingChangeDetector/blob/master/local_config_end2end.json
 [unet-end2end-rgbn.txt]: https://github.com/LiuDongjing/BuildingChangeDetector/blob/master/unet-end2end-rgbn.txt
-[pretrained_weight]: http://lyk-home.oss-cn-shanghai.aliyuncs.com/guangdong_AI/input/model_w7_v56_1117.h5?Expires=1512208674&OSSAccessKeyId=TMP.AQHti6jJBgyRyoVqKRCyrphw4K0Dq0If5fKs0nGxS37vs_N2Vwx0X2IoMDgWMC4CFQCjTMkEDWALxL4ovRohIOWL7bpwwgIVAJg0NmlSO2_7aiFzkOgGgh8-XefJ&Signature=VyPRXgzk5HCLUUd3wfThoMokG2s%3D
+[pretrained_weight]: https://pan.baidu.com/s/1slSIA9R
 [end2end_best_predict.py]: https://github.com/LiuDongjing/BuildingChangeDetector/blob/master/end2end_best_predict.py
 [end2end_train.py]: https://github.com/LiuDongjing/BuildingChangeDetector/blob/master/end2end_train.py
